@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[steviepontour]]></title>
+        <description><![CDATA[steviepontour]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 22:47:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my journey through time]]></title>
+            <description><![CDATA[<article><h1>Welcome to my journey through time</h1><p>It's all about to get a whole lot more out there...</p></article>]]></description>
+            <link>undefinedwelcome-to-my-journey-through-time/index.html</link>
+            <guid isPermaLink="false">84f51e95-1d56-40a5-b567-48acc3199a70</guid>
+            <pubDate>Sun, 20 Dec 2015 22:47:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
