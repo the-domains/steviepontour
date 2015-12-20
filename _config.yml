@@ -1,7 +1,7 @@
 name: steviepontour
 favicon: null
-layout_spectrum: 0.8372552969958633
-typography_spectrum: 0.09343885071575642
+layout_spectrum: 1
+typography_spectrum: 0.2782
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.4719024582300335
-  lightness: 0.9325157704297453
-  saturation: 0.8936618259176612
-  rhythmicContrast: 0.13656919682398438
+    - '#ffffff'
+    - '#04a3e0'
+    - '#c3e9f7'
+    - '#82d0ef'
+    - '#28ace3'
+  brandStrength: 0.375
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
